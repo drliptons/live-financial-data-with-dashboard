@@ -5,7 +5,7 @@
 ## Description
 
 This code is part of a larger project I'm currently working on to get and show real-time stock prices. 
-The Data will be scraped from a financial website and be save into a CSV file. Finally, the data will be cleaned
+The Data will be scraped from a financial website and saved into a CSV file. Finally, the data will be cleaned
 and displayed on a dashboard.
 
 The dashboard will show real-time 7 stock prices. Stock name, current price, regular market price changes, and 
